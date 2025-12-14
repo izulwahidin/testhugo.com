@@ -1,4 +1,4 @@
-
+module github.com/izulwahidin/xx
 
 go 1.25.5
 
